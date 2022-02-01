@@ -708,4 +708,3 @@ AiNum1( 'Es',
         'yolov4-tiny.weights',
         'yolov4-tiny.cfg',
         0)
-##C:/Users/REZA/Desktop/Erfun/Flask/
